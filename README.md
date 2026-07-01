@@ -23,3 +23,9 @@ This repository is used for information, updates, and issue tracking. To downloa
 <p align="center">
   <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/8324364ac4b3bcf3b13cd5600bb3ea658405d4ae.png" width="45%" />
 </p>
+
+## License
+
+LLS Doorlock is released as a **free proprietary escrowed resource**.
+
+This resource is free to use on your FiveM server, but it is **not open source**. Redistribution, resale, leaking, re-uploading, or attempting to bypass Cfx.re/FiveM Asset Escrow protection is not permitted.
